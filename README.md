@@ -11,8 +11,8 @@ Ever wondered how sorting algorithms work their magic? Journey through a stunnin
 ## 🌐 Live Demo
 
 Experience the magic live!
-
-**[🚀 Launch the Sorting Visualizer!](https://sorting-algorithm-visualizer-09en.onrender.com)** 
+🚀 
+**[Launch the Sorting Visualizer!](https://sorting-algorithm-visualizer-09en.onrender.com)** 
 
 ---
 
