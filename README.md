@@ -9,7 +9,7 @@ Ever wondered how sorting algorithms work their magic? Journey through a stunnin
 
 ---
 
-## ✨ Features
+## ✨ Feature
 
 *   **Interactive Visualizations:** Watch algorithms sort data step-by-step.
 *   **Stunning Theme:** A beautiful, animated space/sky theme with both **Light & Dark Modes**. 🎨
