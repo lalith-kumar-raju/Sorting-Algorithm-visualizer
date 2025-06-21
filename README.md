@@ -4,8 +4,8 @@
 
 Ever wondered how sorting algorithms work their magic? Journey through a stunning, interactive space-themed world where you can visualize the inner workings of classic sorting algorithms like Bubble Sort and Quick Sort!
 
-<img src="https://drive.google.com/uc?export=view&id=1n_S_gCmhx8--t0WK9e5-qpzd_s7vhKC8" alt="Sorting Visualizer Demo" width="600"/> 
-<img src="https://drive.google.com/uc?export=view&id=1Q7FQUVkxmWzPMI4M-pL88jmfQgOjy_sQ" alt="Sorting Visualizer Demo" width="600"/> 
+<img src="https://drive.google.com/uc?export=view&id=1n_S_gCmhx8--t0WK9e5-qpzd_s7vhKC8" alt="Sorting Visualizer Demo" width="400"/> 
+<img src="https://drive.google.com/uc?export=view&id=1Q7FQUVkxmWzPMI4M-pL88jmfQgOjy_sQ" alt="Sorting Visualizer Demo" width="400"/> 
 
 ---
 
