@@ -4,8 +4,16 @@
 
 Ever wondered how sorting algorithms work their magic? Journey through a stunning, interactive space-themed world where you can visualize the inner workings of classic sorting algorithms like Bubble Sort and Quick Sort!
 
-![Sorting Visualizer Demo](https://drive.google.com/uc?export=view&id=1n_S_gCmhx8--t0WK9e5-qpzd_s7vhKC8) 
-![Sorting Visualizer Demo](https://drive.google.com/uc?export=view&id=1Q7FQUVkxmWzPMI4M-pL88jmfQgOjy_sQ) 
+<img src="https://drive.google.com/uc?export=view&id=1n_S_gCmhx8--t0WK9e5-qpzd_s7vhKC8" alt="Sorting Visualizer Demo" width="600"/> 
+<img src="https://drive.google.com/uc?export=view&id=1Q7FQUVkxmWzPMI4M-pL88jmfQgOjy_sQ" alt="Sorting Visualizer Demo" width="600"/> 
+
+---
+
+## 🌐 Live Demo
+
+Experience the magic live!
+
+**[🚀 Launch the Sorting Visualizer!](https://sorting-algorithm-visualizer-09en.onrender.com)** 
 
 ---
 
@@ -22,14 +30,6 @@ Ever wondered how sorting algorithms work their magic? Journey through a stunnin
 *   **Speed Control:** Adjust the animation speed to your preference.
 *   **Detailed Explanations:** Get clear, concise messages explaining each comparison and swap.
 *   **Responsive Design:** Works beautifully on desktops, tablets, and mobile devices.
-
----
-
-## 🌐 Live Demo
-
-Experience the magic live!
-
-**[🚀 Launch the Sorting Visualizer!](https://sorting-algorithm-visualizer-09en.onrender.com)** 
 
 ---
 
