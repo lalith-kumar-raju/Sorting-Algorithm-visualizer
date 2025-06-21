@@ -4,12 +4,12 @@
 
 Ever wondered how sorting algorithms work their magic? Journey through a stunning, interactive space-themed world where you can visualize the inner workings of classic sorting algorithms like Bubble Sort and Quick Sort!
 
-![Sorting Visualizer Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJkZGIxYTUxZDI4NjE5NzU4YjY5YTQ1NDE2ZDY4MDI4NTc5ODg1MyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/w78y3vSbt3VxnVIW64/giphy.gif) 
-*(Demo GIF placeholder - you can replace this with a real screen recording of your project!)*
+![Sorting Visualizer Demo](https://drive.google.com/file/d/1n_S_gCmhx8--t0WK9e5-qpzd_s7vhKC8/view?usp=sharing) 
+![Sorting Visualizer Demo](https://drive.google.com/file/d/1Q7FQUVkxmWzPMI4M-pL88jmfQgOjy_sQ/view?usp=sharing) 
 
 ---
 
-## ✨ Feature
+## ✨ Features
 
 *   **Interactive Visualizations:** Watch algorithms sort data step-by-step.
 *   **Stunning Theme:** A beautiful, animated space/sky theme with both **Light & Dark Modes**. 🎨
@@ -29,8 +29,7 @@ Ever wondered how sorting algorithms work their magic? Journey through a stunnin
 
 Experience the magic live!
 
-**[🚀 Launch the Sorting Visualizer!](https://lalith-kumar-raju.github.io/Sorting-Algorithm-Visualizer/)** 
-*(Assuming a GitHub Pages link, update if different)*
+**[🚀 Launch the Sorting Visualizer!](https://sorting-algorithm-visualizer-09en.onrender.com)** 
 
 ---
 
